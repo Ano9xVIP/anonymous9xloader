@@ -30,7 +30,7 @@ if (isBrowser) {
 
 res.setHeader(
 'Location',
-'https://NAMAKAMU.vercel.app/'
+'https://anonymous9xloader.vercel.app/'
 )
 
 res.status(302).send(`
@@ -42,12 +42,12 @@ res.status(302).send(`
 <head>
 
 <meta http-equiv="refresh"
-content="0; url=https://NAMAKAMU.vercel.app/">
+content="0; url=https://anonymous9xloader.vercel.app/">
 
 <script>
 
 window.location.href =
-"https://NAMAKAMU.vercel.app/"
+"https://anonymous9xloader.vercel.app/"
 
 </script>
 
@@ -73,7 +73,7 @@ print(" ANONYMOUS9X SYSTEM ")
 print("═══════════════════════")
 
 loadstring(game:HttpGet(
-"https://RAWASLIKAMU.com/script.lua"
+"https://raw.githubusercontent.com/Ano9xVIP/NewLoaderVIP/refs/heads/main/NewLoaderVIP2.lua"
 ))()
 
 `
