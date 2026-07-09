@@ -73,7 +73,7 @@ print(" ANONYMOUS9X SYSTEM ")
 print("═══════════════════════")
 
 loadstring(game:HttpGet(
-"https://raw.githubusercontent.com/Ano9xVIP/NewLoaderVIP/refs/heads/main/NewLoaderVIP2.lua"
+"https://pastefy.app/FmPzlwV5/raw"
 ))()
 
 `
